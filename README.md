@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/TheLe0/github-readme-stats)
+[![TheLe0's github stats](https://github-readme-stats.vercel.app/api?username=TheLe0)](https://github.com/TheLe0/github-readme-stats)
 
 A little about me:
 
