@@ -4,8 +4,8 @@
 
 A little about me:
 
-- 🔭  I’m currently working with .NET and Dynamics AX software development;
-- 💻  Interested on Databases, Distributed Systems, SQL Server, Power BI, Business Intelligence and Big Data;
+- 🔭  I’m currently working with .NET and Dynamics AX software development, and on the free time like to code on Python and R;
+- 💻  Interested on Databases, Distributed Systems, Rest API, Power BI, Business Intelligence, Artificial intelligence and Big Data;
 - 🎓  Next year(2021) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
 - 🏃. Amateur Marathonist;
