@@ -4,7 +4,7 @@
 
 A little about me:
 
-- 🔭  I'm a Backend Developer, working most with .NET, NodeJS and Python;
+- 🔭  I'm a Backend Developer, working on Web, Desktop and Mobile applications and APIs using .NET, NodeJS, Ruby and Python;
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
 - 🎓  Next year(2021) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
