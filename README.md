@@ -1,6 +1,7 @@
 ### Hello World 👋
 
 [![TheLe0's github stats](https://github-readme-stats.vercel.app/api?username=TheLe0)](https://github.com/TheLe0/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&hide=html" alt="TheLe0" /></p>
 
 A little about me:
 
@@ -17,4 +18,3 @@ A little about me:
 - ⭐  Nerd, Otaku and Geek;
 - 🎮  In the free time i like to play videogames
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&hide=html" alt="TheLe0" /></p>
