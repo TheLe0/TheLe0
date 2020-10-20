@@ -1,7 +1,6 @@
 ### Hello World 👋
-
-[![TheLe0's github stats](https://github-readme-stats.vercel.app/api?username=TheLe0)](https://github.com/TheLe0/github-readme-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&hide=html" alt="TheLe0" /></p>
+[![TheLe0's github stats](https://github-readme-stats.vercel.app/api?username=TheLe0)](https://github.com/TheLe0/github-readme-stats)
 
 A little about me:
 
