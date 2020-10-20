@@ -16,3 +16,5 @@ A little about me:
 - 💬  Love to chat and met new people;
 - ⭐  Nerd, Otaku and Geek;
 - 🎮  In the free time i like to play videogames
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&hide=html" alt="TheLe0" /></p>
