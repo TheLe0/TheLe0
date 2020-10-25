@@ -16,7 +16,7 @@ A little about me:
 - 🎦  Love to watch animes, sitcoms and TV Shows;
 - 💬  Love to chat and met new people;
 - ⭐  Nerd, Otaku and Geek;
-- 🎮  In the free time i like to play videogames
+- 🎮  In the free time i like to play videogames (Racing Simulators, Beat 'em ups, RPGs and Anime Versus)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&hide=html" alt="TheLe0" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&show_icons=true" alt="TheLe0" /></p>
