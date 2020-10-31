@@ -28,4 +28,7 @@ A little about me:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="css" width="80" height="80"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="html" width="80" height="80"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain.svg" alt="postgres" width="80" height="80"/>
-  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="80" height="80"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="80" height="80"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/rhandlebars-original.svg" alt="hbs" width="80" height="80"/>
