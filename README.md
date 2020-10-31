@@ -1,7 +1,6 @@
 ### Hello World 👋
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" colored" alt="Java" width="80" height="80"/> 
