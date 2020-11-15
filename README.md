@@ -5,11 +5,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" colored" alt="Java" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-plain.svg" colored" alt=". NET" width="80" height="80"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" colored" alt="nginx" width="80" height="80"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" colored" alt="visualstudio" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" colored" alt="csharp" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" colored" alt="aws" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" colored" alt="docker" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/meteor/meteor-plain.svg" colored" alt="meteor" width="80" height="80"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/krakenjs/krakenjs-plain.svg" colored" alt="kraken" width="80" height="80"/>
 
 
