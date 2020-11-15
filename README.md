@@ -31,15 +31,3 @@ A little about me:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&hide=html" alt="TheLe0" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&show_icons=true" alt="TheLe0" /></p>
-
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-plain.svg" alt="typescript" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="css" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="html" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain.svg" alt="postgres" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original.svg" alt="hbs" width="80" height="80"/>
