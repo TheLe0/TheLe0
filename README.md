@@ -9,7 +9,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" colored" alt="csharp" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" colored" alt="aws" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" colored" alt="docker" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/krakenjs/krakenjs-plain.svg" colored" alt="kraken" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 
 
 
