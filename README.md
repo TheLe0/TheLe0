@@ -18,12 +18,12 @@
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" colored" alt="Java" width="80" height="80"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" colored" alt="Java" width="80" height="80"/>
+  <img align="left" alt="Spring Boot" width="80px"  height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-plain.svg" colored" alt=". NET" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" colored" alt="visualstudio" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" colored" alt="csharp" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" colored" alt="aws" width="80" height="80"/> 
-  <img align="left" alt="Spring Boot" width="80px"  height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
   
   ## STATS
