@@ -21,6 +21,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-plain.svg" colored" alt=". NET" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" colored" alt="visualstudio" width="80" height="80"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" colored" alt="csharp" width="80" height="80"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" colored" alt="android" width="80" height="80"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
   
   ## STATS
