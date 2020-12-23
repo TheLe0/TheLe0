@@ -1,6 +1,6 @@
 ### About Me
 
-- 🔭  I'm a Backend Developer, working on Web, Desktop and Mobile applications and APIs using .NET, NodeJS, Ruby and Python;
+- 🔭  I'm a Backend Developer, working on Web, Desktop and Mobile applications and APIs. Working mostly with .NET and Java technologies;
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
 - 🎓  Next year(2021) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
