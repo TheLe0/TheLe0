@@ -1,5 +1,7 @@
 ### About Me
 
+[![Visits](https://badges.pufler.dev/visits/malbolgee/URI?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/TheLe0)
+
 - 🔭  I'm a Backend Developer, working on Web, Desktop and Mobile applications and APIs. Working mostly with .NET and Java technologies;
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
 - 🎓  Next year(2021) i get my bachelor degree on Computer Science;
