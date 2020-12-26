@@ -1,7 +1,7 @@
 ### About Me
 
 [![Visits](https://badges.pufler.dev/visits/malbolgee/URI?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://www.linkedin.com/in/leonardo-tosin-b57406112/)
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/victor-hugo-oliveira-gomes-26267389)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/leonardo-tosin-b57406112/)
 
 - 🔭  I'm a Backend Developer, working on Web, Desktop and Mobile applications and APIs. Working mostly with .NET and Java technologies;
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
