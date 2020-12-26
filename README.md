@@ -28,10 +28,11 @@
   ## STATS
   
   <center>
+  
 <table>
   <tr>
       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&show_icons=true&theme=onedark&locale=en&layout=compact" alt="TheLe0" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&show_icons=true" alt="TheLe0" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&show_icons=true&theme=onedark&locale=en" alt="TheLe0" /></td>
   </tr>  
 </table>
 </center>
