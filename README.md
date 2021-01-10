@@ -19,13 +19,12 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/csharp/csharp-plain.svg" alt="csharp" width="80" height="80" title="C#"/>
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="80" height="80"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" colored" alt="Java" width="80" height="80"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-plain.svg" colored" alt=". NET" width="80" height="80"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" colored" alt="visualstudio" width="80" height="80"/>   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" colored" alt="android" width="80" height="80"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg" colored" alt="angularjs" width="80" height="80"/>                                                                                                                                                                                                                                                                    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-plain.svg" alt="csharp" width="80" height="80" title="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/java/java-plain-wordmark.svg" alt="csharp" width="80" height="80" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/dot-net/dot-net-plain.svg" alt="csharp" width="80" height="80" title=".NET"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/visualstudio/visualstudio-plain.svg" alt="csharp" width="80" height="80" title="Visual Studio"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="csharp" width="80" height="80" title="Android"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/angularjs-plain.svg" alt="csharp" width="80" height="80" title="Angular"/>                                                                    
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
   
   ## STATS
