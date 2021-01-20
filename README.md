@@ -23,8 +23,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/dot-net/dot-net-plain.svg" alt="csharp" width="80" height="80" title=".NET"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/visualstudio/visualstudio-plain.svg" alt="csharp" width="80" height="80" title="Visual Studio"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="csharp" width="80" height="80" title="Android"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="csharp" width="80" height="80" title="Gradle"/>                                                                    
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="csharp" width="80" height="80" title="Gradle"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="csharp" width="80" height="80" title="Intellij"/> 
+  
   
   ## STATS
   
