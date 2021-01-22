@@ -6,13 +6,18 @@
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
-- 🏃  Amateur Marathonist;
 - ☕  Addicted to coffee;
-- 🍣  I love sushi;
-- 🏁  Motorsport fan;
-- 🎦  Love to watch animes, sitcoms and TV Shows;
 - ⭐  Nerd, Otaku and Geek;
-- 🎮  In the free time i like to play videogames (Racing Simulators, Beat 'em ups, RPGs and Anime Versus)
+- 🔨  My favorite job and hobby is coding, my favorite languages are Kotlin, Java and C#
+
+#### History of my carrer
+```diff
+- I work as a scientist/researcher on my college.
+- I work as a Full-Stack Software Developer on a network provider on my home town for about 3 years(2017-2019).
++ I study Computer Science.
++ Currently working as a .NET and Dynamics AX Software Developer on a dairy industry
++ In the free time like to work and learn about Android and mobile in general development.
+```
 
 ## STACK
 
