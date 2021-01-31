@@ -12,11 +12,11 @@
 
 #### History of my carrer
 ```diff
-- I work as a scientist/researcher on my college.
-- I work as a Full-Stack Software Developer on a network provider on my home town for about 3 years(2017-2019).
-+ I study Computer Science.
-+ Currently working as a .NET and Dynamics AX Software Developer on a dairy industry
-+ In the free time like to work and learn about Android and mobile in general development.
+- Scientist/Researcher
+- Full-Stack Software Developer
++ Computer Science student.
++ .NET and Dynamics AX Software Developer
++ Android Developer
 ```
 
 ## STACK
