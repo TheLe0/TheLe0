@@ -32,7 +32,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="csharp" width="80" height="80" title="Gradle"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="csharp" width="80" height="80" title="Intellij"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="csharp" width="80" height="80" title="Linux"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-original.svg" alt="csharp" width="80" height="80" title="Ubuntu"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="csharp" width="80" height="80" title="Ubuntu"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/apple/apple-original.svg" alt="csharp" width="80" height="80" title="iOS"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/swift/swift-original.svg" alt="csharp" width="80" height="80" title="Swift"/> 
   
