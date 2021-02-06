@@ -25,7 +25,7 @@
 
 ## STACK
 
-
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/kotlin/kotlin-plain.svg" alt="csharp" width="80" height="80" title="Kotlin"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/java/java-plain-wordmark.svg" alt="csharp" width="80" height="80" title="Java"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="csharp" width="80" height="80" title="Android"/>
