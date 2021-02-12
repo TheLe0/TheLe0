@@ -26,15 +26,15 @@
 ## STACK
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/kotlin/kotlin-plain.svg" alt="csharp" width="80" height="80" title="Kotlin"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/java/java-plain-wordmark.svg" alt="csharp" width="80" height="80" title="Java"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="csharp" width="80" height="80" title="Android"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="csharp" width="80" height="80" title="Gradle"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="csharp" width="80" height="80" title="Intellij"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="csharp" width="80" height="80" title="Linux"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="csharp" width="80" height="80" title="Ubuntu"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/firebase/firebase-plain.svg" alt="csharp" width="80" height="80" title="Firebase"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/swift/swift-original.svg" alt="csharp" width="80" height="80" title="Swift"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="80" height="80" title="Kotlin"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/java/java-plain-wordmark.svg" alt="Java" width="80" height="80" title="Java"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="Android" width="80" height="80" title="Android"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="Gradle" width="80" height="80" title="Gradle"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="IntelliJ" width="80" height="80" title="Intellij"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="80" height="80" title="Ubuntu"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/firebase/firebase-plain-wordmark.svgg" alt="Firebase" width="80" height="80" title="Firebase"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/swift/swift-original.svg" alt="Swift" width="80" height="80" title="Swift"/> 
   
   ## STATS
   
