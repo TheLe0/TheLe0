@@ -32,8 +32,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="Gradle" width="80" height="80" title="Gradle"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="IntelliJ" width="80" height="80" title="Intellij"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="80" height="80" title="Google Cloud"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/firebase/firebase-plain.svg" alt="Firebase" width="80" height="80" title="Firebase"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="80" height="80" title="Ubuntu"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="80" height="80" title="Firebase"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/swift/swift-original.svg" alt="Swift" width="80" height="80" title="Swift"/> 
   
   ## STATS
