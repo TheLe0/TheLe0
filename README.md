@@ -3,13 +3,16 @@
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/leonardo-tosin-b57406112/)
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheLe0&count_bg=%23820296&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭  I'm a Backend Developer, working on Web, Desktop and Mobile applications and APIs. Preferably with .NET, Java and Android technologies;
+- 🔭  .NET and Dynamics AX developer by day, native mobile developer by night and in the free time(mainly on Android);
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
 - ☕  Addicted to coffee;
 - ⭐  Nerd, Otaku and Geek;
-- 🔨  My favorite job and hobby is coding, my favorite languages are Kotlin, Java and C#
+- 🔨  My favorite job and hobby is coding, my favorite languages are Kotlin, Java and Swift
+
+## Me on Google Play
+<a href='https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
