@@ -36,7 +36,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="IntelliJ" width="80" height="80" title="Intellij"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux"/> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="80" height="80" title="Ubuntu"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/docker/docker-plain.svg" alt="docker" width="80" height="80" title="docker"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/apple/apple-original.svg" alt="apple" width="80" height="80" title="apple"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/swift/swift-original.svg" alt="Swift" width="80" height="80" title="Swift"/> 
   
   ## STATS
