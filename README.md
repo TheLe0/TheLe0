@@ -3,13 +3,12 @@
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/leonardo-tosin-b57406112/)
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheLe0&count_bg=%23820296&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭  .NET and Dynamics AX developer by day, native mobile developer by night and in the free time(mainly on Android);
+- 🔭  .NET and Dynamics AX developer by day, native Android developer by night and in the free time;
 - 💻  Interested on Distributed Systems, Rest API, Artificial intelligence, Software Architecture and Big Data;
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
 - ☕  Addicted to coffee;
 - ⭐  Nerd, Otaku and Geek;
-- 🔨  My favorite job and hobby is coding, my favorite languages are Kotlin, Java and Swift
 
 ## Me on Google Play
 <a href='https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="500" height="200" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
@@ -30,14 +29,12 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="80" height="80" title="Kotlin"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/java/java-plain-wordmark.svg" alt="Java" width="80" height="80" title="Java"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="Android" width="80" height="80" title="Android"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="Gradle" width="80" height="80" title="Gradle"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="IntelliJ" width="80" height="80" title="Intellij"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux"/> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="80" height="80" title="Ubuntu"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/apple/apple-original.svg" alt="apple" width="80" height="80" title="apple"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/swift/swift-original.svg" alt="Swift" width="80" height="80" title="Swift"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80" height="80" title="Firebase"/> 
   
   ## STATS
   
