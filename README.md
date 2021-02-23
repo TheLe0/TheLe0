@@ -28,6 +28,7 @@
 ## STACK
 
 <p align="left">
+  <img src="./assets/android.png" alt="Android Studio" width="80" height="80" title="Android Studio"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="80" height="80" title="Kotlin"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="Android" width="80" height="80" title="Android"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="Gradle" width="80" height="80" title="Gradle"/>
