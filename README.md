@@ -10,8 +10,8 @@
 - ☕  Addicted to coffee;
 - ⭐  Nerd, Otaku and Geek;
 
-## Me on Google Play
-<a href='https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="500" height="200" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+## Where find me
+<a href='https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="20" height="20" src='./assets/google_play.png'/></a>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
