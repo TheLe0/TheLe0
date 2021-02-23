@@ -28,17 +28,16 @@
 ## STACK
 
 <p align="left">
-  <img src="./assets/android.png" alt="Android Studio" width="80" height="80" title="Android Studio"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="80" height="80" title="Kotlin"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/android/android-plain.svg" alt="Android" width="80" height="80" title="Android"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/gradle/gradle-plain.svg" alt="Gradle" width="80" height="80" title="Gradle"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/intellij/intellij-plain.svg" alt="IntelliJ" width="80" height="80" title="Intellij"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="80" height="80" title="Ubuntu"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="80" height="80" title="Firebase"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="80" height="80" title="Google Cloud"/> 
+  <img src="./assets/android.png" alt="Android" width="80" height="80" title="Android"/>
+  <img src="./assets/android_studio.png" alt="Android Studio" width="80" height="80" title="Android Studio"/>
+  <img src="./assets/kotlin.png" alt="Kotlin" width="80" height="80" title="Kotlin"/>
+  <img src="./assets/gradle.png" alt="Gradle" width="80" height="80" title="Gradle"/>
+  <img src="./assets/jetpack_compose.png" alt="Compose" width="80" height="80" title="Compose"/>
+  <img src="./assets/google_play.png" alt="Google Play" width="80" height="80" title="Google Play"/>
+  <img src="./assets/firebase.png" alt="Firebase" width="80" height="80" title="Firebase"/>
+  <img src="./assets/realm.png" alt="Realm" width="80" height="80" title="Realm"/>
+  <img src="./assets/sql_lite.png" alt="SQLite" width="80" height="80" title="SQLite"/>
   
- 
   ## STATS
   
   <center>
