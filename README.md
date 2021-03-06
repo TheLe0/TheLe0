@@ -14,9 +14,6 @@
 - 🍎  Apple fan.
 
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
-![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
-
 #### History of my carrer
 ```diff
 - Scientist/Researcher
@@ -25,20 +22,16 @@
 + .NET and Dynamics AX Software Developer
 ```
 
-## STACK
+## Plataforms
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="left">
-  <img src="./assets/android.png" alt="Android" width="80" height="80" title="Android"/>
-  <img src="./assets/android_studio.png" alt="Android Studio" width="80" height="80" title="Android Studio"/>
-  <img src="./assets/kotlin.png" alt="Kotlin" width="80" height="80" title="Kotlin"/>
-  <img src="./assets/gradle.png" alt="Gradle" width="80" height="80" title="Gradle"/>
-  <img src="./assets/jetpack_compose.png" alt="Compose" width="80" height="80" title="Compose"/>
-  <img src="./assets/google_play.png" alt="Google Play" width="80" height="80" title="Google Play"/>
-  <img src="./assets/firebase.png" alt="Firebase" width="80" height="80" title="Firebase"/>
-  <img src="./assets/realm.png" alt="Realm" width="80" height="80" title="Realm"/>
-  <img src="./assets/sql_lite.png" alt="SQLite" width="80" height="80" title="SQLite"/>
-  
-  ## STATS
+## Programming Languages
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
+
+## STATS
   
   <center>
   
