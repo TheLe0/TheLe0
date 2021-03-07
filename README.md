@@ -21,7 +21,7 @@
 + Computer Science student.
 + .NET and Dynamics AX Software Developer
 + Backend Software Developer
-+ Android/iOS Software Developer
++ Self taught Android/iOS Software Developer
 ```
 
 ## Operating Systems
