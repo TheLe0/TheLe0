@@ -5,7 +5,7 @@
 <a href='https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="20" height="20" src='./assets/google_play.png'/></a>
 
 
-- 🔭  .NET and Dynamics AX developer by day, native Android developer in the free time as a hobby;
+- 🔭  .NET and Dynamics AX developer by day, self taught Android/Ios developer in the free time as a hobby;
 - 💻  Interested on Distributed Systems, Serverless, Cloud Computing, Software Architecture and Big Data;
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
