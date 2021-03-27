@@ -5,7 +5,7 @@
 <a href='https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="20" height="20" src='./assets/google_play.png'/></a>
 
 
-- 🔭  .NET and Dynamics AX developer by day, self taught Android/Ios developer in the free time as a hobby;
+- 🔭  .NET and Dynamics AX developer by day, self taught Ios developer in the free time as a hobby;
 - 💻  Interested on Distributed Systems, Serverless, Cloud Computing, Software Architecture and Big Data;
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
@@ -20,20 +20,12 @@
 - Full-Stack Software Developer
 + Computer Science student.
 + .NET and Dynamics AX Software Developer
-+ Self taught Android/iOS Software Developer
++ Self taught iOS Software Developer
 ```
 
-## Technologies
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ## STATS
   
