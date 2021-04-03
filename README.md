@@ -17,7 +17,7 @@
 #### History of my carrer
 ```diff
 - Scientist/Researcher
-- Full-Stack Software Developer
+- Full-Stack Web Developer
 + Computer Science student.
 + .NET and Dynamics AX Software Developer
 + Self taught iOS Software Developer
