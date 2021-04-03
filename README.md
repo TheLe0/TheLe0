@@ -11,7 +11,7 @@
 - 👯  I’m looking to collaborate on open source projects;
 - ☕  Addicted to coffee;
 - ⭐  Nerd, Otaku and Geek;
-- 🍎  Apple things lover
+- 🍎  ![Apple](https://badgen.net/badge/icon/apple?icon=apple&label)
 
 
 #### History of my carrer
