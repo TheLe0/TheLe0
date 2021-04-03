@@ -20,7 +20,7 @@
 - Full-Stack Web Developer
 + Computer Science student.
 + .NET and Dynamics AX Software Developer
-+ Self taught iOS Software Developer
++ Self taught iOS & Android Software Developer
 ```
 
 ## STATS
