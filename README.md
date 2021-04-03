@@ -7,8 +7,8 @@
 
 - ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-- 🎓  Next year(2022) i get my bachelor degree on Computer Science;
-- 👯  I’m looking to collaborate on open source projects;
+- ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) ![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+- ![Apple Music](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)
 - ![NetFlix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=whit)
 - ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 - ![Apple](https://badgen.net/badge/icon/apple?icon=apple&label)
