@@ -6,7 +6,7 @@
 
 
 - ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-- 💻  Interested on Distributed Systems, Serverless, Cloud Computing, Software Architecture and Big Data;
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
 - ![NetFlix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=whit)
@@ -22,9 +22,6 @@
 + .NET and Dynamics AX Software Developer
 + Self taught iOS Software Developer
 ```
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## STATS
   
