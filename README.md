@@ -9,7 +9,7 @@
 - 💻  Interested on Distributed Systems, Serverless, Cloud Computing, Software Architecture and Big Data;
 - 🎓  Next year(2022) i get my bachelor degree on Computer Science;
 - 👯  I’m looking to collaborate on open source projects;
-- ![NetFlix](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+- ![NetFlix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=whit)
 - ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 - ![Apple](https://badgen.net/badge/icon/apple?icon=apple&label)
 
