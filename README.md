@@ -26,6 +26,8 @@ and other software applications in the free time.
 
 ### When I not coding, I'm probabbly on ###
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
+![PSN](https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white)
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 #### History of my carrer
 ```diff
