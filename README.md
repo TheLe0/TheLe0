@@ -10,6 +10,9 @@ Software Developer from Brazil, working day and night to increase my software de
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and making my apps
 and other software applications in the free time.
 
+> You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
+>
+> -- <cite>Roronoa Zoro</cite>
 
 ### My Apps ###
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
