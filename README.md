@@ -29,9 +29,9 @@ and APIs in the free time as a hobby.
 #### History of my carrer
 ```diff
 - Scientist/Researcher
-- Full-Stack Web Developer
 + Computer Science student.
 + .NET and Dynamics AX Software Developer
++ Full-Stack Web Developer
 ```
 
 ## STATS
