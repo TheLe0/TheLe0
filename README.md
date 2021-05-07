@@ -9,6 +9,7 @@
 Software Developer from Brazil, working day and night to increase my software developer skills. 
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and making my apps
 and APIs in the free time as a hobby.
+I'm open to colaborate on open source projects.
 
 > You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
 >
