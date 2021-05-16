@@ -15,6 +15,11 @@ I'm open to colaborate on open source projects.
 >
 > -- <cite>Roronoa Zoro</cite>
 
+
+> Passion and dreams are like time, nothing can stop them, and it will be so long as there are men ready to make sense of the word, freedom.
+>
+> -- <cite>Gol D. Rodgers</cite>
+
 ### My Apps ###
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
@@ -50,9 +55,6 @@ I'm open to colaborate on open source projects.
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 
-#### ERP Systems ####
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 #### History of my carrer
 ```diff
