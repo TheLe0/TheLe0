@@ -66,13 +66,11 @@ I'm open to colaborate on open source projects.
 
 ## STATS
 
-<a href="https://github.com/vrmiguel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&langs_count=10&hide=css,m4,c,html,javascript&bg_color=90,5c252d,090300&title_color=fff&text_color=fff" width="1000"/></a>
-  
   <center>
   
 <table>
   <tr>
-      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&show_icons=true&theme=onedark&locale=en&layout=compact" alt="TheLe0" /></td>
+      <td><a href="https://github.com/vrmiguel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&langs_count=10&hide=css,m4,c,html,javascript&bg_color=90,5c252d,090300&title_color=fff&text_color=fff" width="1000"/></a></td>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&show_icons=true&theme=onedark&locale=en" alt="TheLe0" /></td>
   </tr>  
 </table>
