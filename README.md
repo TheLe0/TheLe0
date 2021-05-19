@@ -65,6 +65,8 @@ I'm open to colaborate on open source projects.
 ```
 
 ## STATS
+
+<a href="https://github.com/vrmiguel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&layout=compact&langs_count=10&hide=css,m4,c,html,javascript&bg_color=90,5c252d,090300&title_color=fff&text_color=fff" width="1000"/></a>
   
   <center>
   
