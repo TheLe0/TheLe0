@@ -42,7 +42,7 @@ I'm open to colaborate on open source projects.
 <table>
   <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&theme=blue-green" alt="TheLe0" /></td>  
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&show_icons=true&theme=onedark&locale=en" alt="TheLe0" /></td>  
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLe0&theme=blue-green" alt="TheLe0" /></td>  
   </tr> 
 </table>
 </center>
