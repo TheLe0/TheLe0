@@ -4,13 +4,6 @@
 
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheLe0&count_bg=%23820296&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
- ▄  █ ▄███▄   █    █    ████▄ 
-█   █ █▀   ▀  █    █    █   █ 
-██▀▀█ ██▄▄    █    █    █   █ 
-█   █ █▄   ▄▀ ███▄ ███▄ ▀████ 
-   █  ▀███▀       ▀    ▀      
-  ▀
-
 ### About Me
 
 Software Developer from Brazil, working day and night to increase my software developer skills. 
