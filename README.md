@@ -9,7 +9,9 @@
 Software Developer from Brazil, working day and night to increase my software developer skills. 
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and making my apps
 and APIs in the free time as a hobby.
+
 Working manly with Backend Development, buiding and designing REST/RESTfull APIs and cloud solutions. But eventually work with interfaces for websites and mobile apps.
+
 I'm open to colaborate on open source projects.
 
 
