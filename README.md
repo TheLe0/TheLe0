@@ -31,12 +31,13 @@ I'm open to colaborate on open source projects.
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) 
 
 
-#### History of my carrer
+#### History of my profissional/academic carrer
 ```diff
 - Scientist/Researcher
-- Full-Stack Web Developer
+- PHP and Ruby on Rails Software Developer
 + Computer Science student.
-+ .NET and Dynamics AX Software Developer
++ .NET and NodeJS Backend Software Developer
++ React Frontend Software Developer
 ```
 
 ## STATS
