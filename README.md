@@ -43,6 +43,8 @@ I'm open to colaborate on open source projects.
 
 ## STATS
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheLe0&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 <center>
 <table>
   <tr>
@@ -51,4 +53,3 @@ I'm open to colaborate on open source projects.
   </tr> 
 </table>
 </center>
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheLe0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
