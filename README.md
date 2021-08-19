@@ -43,8 +43,7 @@ I'm open to colaborate on open source projects.
 
 ## STATS
 
-  <center>
-  
+<center>
 <table>
   <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLe0&theme=onedark" alt="TheLe0" /></td>  
@@ -52,3 +51,4 @@ I'm open to colaborate on open source projects.
   </tr> 
 </table>
 </center>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheLe0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
