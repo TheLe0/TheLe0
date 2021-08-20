@@ -6,16 +6,16 @@
 
 ### About Me
 
-Software Developer from Brazil, working day and night to increase my software developer skills. 
+.NET Software Developer from Brazil, working day and night to increase my software developer skills. 
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and making my apps
 and APIs in the free time as a hobby.
 
-Working manly with Backend Development, buiding and designing REST/RESTfull APIs and cloud solutions. But eventually work with interfaces for websites and mobile apps. Coding mostly with NodeJS and Python. Love to RESTing in the free time for relax 😆
+Working manly with Backend Development, buiding and designing REST/RESTfull APIs and cloud solutions. But eventually work with interfaces for websites and mobile apps. Love to RESTing in the free time for relax 😆
 
 I'm open to colaborate on open source projects.
 
 
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 
 
 > You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
