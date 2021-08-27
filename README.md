@@ -37,8 +37,6 @@ I'm open to colaborate on open source projects.
 - PHP and Ruby on Rails Software Developer
 + Computer Science student.
 + .NET and NodeJS Backend Software Developer
-+ React Frontend Software Developer
-+ Android Software Developer
 ```
 
 ## STATS
