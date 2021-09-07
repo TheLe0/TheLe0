@@ -10,7 +10,7 @@
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and making my apps
 and APIs in the free time as a hobby.
 
-Working manly with Backend Development, buiding and designing REST/RESTfull APIs and cloud solutions. But eventually work with interfaces for websites and mobile apps. Love to RESTing in the free time for relax 😆
+Working manly with Backend Development, buiding and designing REST/RESTfull APIs and cloud solutions. But eventually work with interfaces for websites and mobile apps. Love RESTing in the free time for relax 😆
 
 I'm open to colaborate on open source projects.
 
