@@ -30,12 +30,30 @@ I'm open to colaborate on open source projects.
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) 
 
 
-#### History of my profissional/academic carrer
-```diff
-- Scientist/Researcher
-- Chemical Engineering student
-+ Computer Science student.
-+ Full Stack Software Developer
+#### My personal and favorite working stack
+```csharp
+public class Stack : Personal
+{
+  public static string FindTechBySkill(string skill)
+  {
+      return skill switch
+      {
+          "SPA" => "Vue.js",
+          "SSR" => "Nuxt.js",
+          "Back-end" => "Node.js",
+          "Framework" => "Nest.js",
+          "Mobile" => "React Native",
+          "Desktop" => "Electron",
+          "OOP Language" => "Typescript",
+          "Functional Language" => "Elixir",
+          "Procedural Language" => "Golang",
+          "Cloud" => "Azure",
+          "Testing" => "Jest",
+          "Logger" => "Pino.js",
+          "ORM" => "Prisma"
+      }
+  }
+}
 ```
 
 ## STATS
