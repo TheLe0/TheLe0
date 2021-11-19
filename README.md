@@ -41,7 +41,7 @@ public class Stack : Personal
           "SPA" => "Vue.js",
           "SSR" => "Nuxt.js",
           "Back-end" => "Node.js",
-          "Mobile" => "Fluter",
+          "Mobile" => "Flutter",
           "Programming Language" => "Typescript",
           "Cloud" => "Azure",
           "Testing" => "Jest",
