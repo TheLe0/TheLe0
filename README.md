@@ -9,7 +9,7 @@
 Full Stack Software Developer from Brazil, working day and night to increase my software developer skills. 
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and do some freelances in the free time.
 
-I work both with backend (.NET, Laravel and Node) and frontend (Vue and React), always trying to be updated about new technologies. I am a cloud passionate, have already extensive experience in the Azure and some with AWS and Heroku.
+I work with backend (.NET and Node), frontend (Vue and React) and mobile (React Native and Flutter), always trying to be updated about new technologies. I am a cloud passionate, have already extensive experience in the Azure and some with AWS and Heroku.
 
 I'm open to colaborate on open source projects.
 
