@@ -34,7 +34,7 @@ I'm open to colaborate on open source projects.
 ```csharp
 public class Stack : Personal
 {
-  public static string FindTechBySkill(string skill)
+  public static string FavoriteTechBySkill(string skill)
   {
       return skill switch
       {
