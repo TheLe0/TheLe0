@@ -6,7 +6,7 @@
 Software Developer from Brazil, working day and night to increase my software developer skills. 
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, coding mainly on .NET and NodeJS. And on the free time as a hobby for studies and personal projects i explore the Elixir word and other functional languages.
 
-I work with backend (.NET and Node), frontend (React) and mobile (React Native), always trying to be updated about new technologies. I am a cloud passionate, have already extensive experience in the Azure and some with AWS and Heroku. In the free time I work and study Elixir and some others functionals programming languages (Scala and Clojure), just for RESTing in the free time for relaxing. 😅
+I work with backend applications, already worked with front end and mobile stuff, but backend is my home. In the free time I work and study Elixir and some others functionals programming languages (Scala and Clojure), just for RESTing in the free time for relaxing. 😅
 
 Nowadays I am more functional than object oriented. 😜
 
