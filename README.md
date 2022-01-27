@@ -3,8 +3,8 @@
 
 ### About Me
 
-Full Stack Software Developer from Brazil, working day and night to increase my software developer skills. 
-Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, and do some freelances in the free time.
+Software Developer from Brazil, working day and night to increase my software developer skills. 
+Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, coding mainly on .NET and NodeJS. And on the free time as a hobby for studies and personal projects i explore the Elixir word and other functional languages.
 
 I work with backend (.NET and Node), frontend (React) and mobile (React Native), always trying to be updated about new technologies. I am a cloud passionate, have already extensive experience in the Azure and some with AWS and Heroku. In the free time I work and study Elixir and some others functionals programming languages (Scala and Clojure), just for RESTing in the free time for relaxing. 😅
 
@@ -12,9 +12,9 @@ Nowadays I am more functional than object oriented. 😜
 
 I'm open to colaborate on open source projects.
 
-### STACK ###
+### Like to work with ###
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 > You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
 >
