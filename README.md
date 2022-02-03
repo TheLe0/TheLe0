@@ -25,9 +25,6 @@ I'm open to colaborate on open source projects.
 >
 > -- <cite>Gol D. Rodgers</cite>
 
-### My Apps ###
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5200472266334008653&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) 
-
 ## STATS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheLe0&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
