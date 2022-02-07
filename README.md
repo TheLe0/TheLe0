@@ -8,7 +8,7 @@
 Software Developer from Brazil, working day and night to increase my software developer skills. 
 Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, coding mainly on .NET and NodeJS. And on the free time as a hobby for studies and personal projects i explore the Elixir word and other functional languages.
 
-I work with backend applications, already worked with front end and mobile stuff, but backend is my home. In the free time I like to work on my personal projects just for RESTing in the free time for relaxing. 😅
+I work with backend applications and cloud solutions, already worked with front end and mobile stuff, but backend is my home. In the free time I like to work on my personal projects just for RESTing in the free time for relaxing. 😅
 
 I'm open to colaborate on open source projects.
 
