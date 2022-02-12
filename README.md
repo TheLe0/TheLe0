@@ -5,8 +5,7 @@
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-Software Developer from Brazil, working day and night to increase my software developer skills. 
-Working for <a href="https://www.coopsantaclara.com.br/">Cooperativa Santa Clara</a> as a regular job, coding mainly on .NET and NodeJS. I work with backend applications and cloud solutions, already worked with front end and mobile stuff, but backend is my home. In the free time I like to work on my personal projects just for RESTing in the free time for relaxing. 😅
+I'm a .NET software developer with 5+ years of experience, working with web, mobile and desktop development. Open minded person, interested on learning new technologies and increase the coding and personal skills. Always avaliable to chat and work with new people.Working manly with Backend Development, buiding and designing REST/RESTfull APIs(love RESTing in the free time for relax 😆) and cloud solutions. But eventually work with front-end stuff (web, mobile and desktop).I'm on continuous growth, the person I am today, may not be the same as yesterday. Inquisitiveness person, always increasing the knowledge.Working mainly with the .NET stack, but eventually work with other technologies such as Vue.js, Nodejs and Typescript.
 
 I'm open to colaborate on open source projects.
 
