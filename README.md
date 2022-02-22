@@ -7,6 +7,11 @@
 
 I'm a .NET software developer with 5+ years of experience, working with web, mobile and desktop development. Open minded person, interested on learning new technologies and increase the coding and personal skills. Always avaliable to chat and work with new people.Working manly with Backend Development and cloud solutions, buiding and designing REST/RESTfull APIs(love RESTing in the free time for relax 😆) and cloud solutions. But eventually work with front-end stuff (web, mobile and desktop).I'm on continuous growth, the person I am today, may not be the same as yesterday. Inquisitiveness person, always increasing the knowledge.Working mainly with the .NET stack, but eventually work with other technologies such as Vue.js, Nodejs and Typescript.
 
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
+  </div>
+
 I'm open to colaborate on open source projects.
 
 > You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
