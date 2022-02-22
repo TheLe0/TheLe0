@@ -9,7 +9,7 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
 </div>
   
-< /br>
+<br />
 I'm a .NET software developer with 5+ years of experience, working with web, mobile and desktop development. Open minded person, interested on learning new technologies and increase the coding and personal skills. Always avaliable to chat and work with new people.Working manly with Backend Development and cloud solutions, buiding and designing REST/RESTfull APIs(love RESTing in the free time for relax 😆) and cloud solutions. But eventually work with front-end stuff (web, mobile and desktop).I'm on continuous growth, the person I am today, may not be the same as yesterday. Inquisitiveness person, always increasing the knowledge.Working mainly with the .NET stack, but eventually work with other technologies such as Vue.js, Nodejs and Typescript.
 
 I'm open to colaborate on open source projects.
