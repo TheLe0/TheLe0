@@ -3,16 +3,14 @@
 
 ### About Me
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
+<div style="display: inline_block"><br>  
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/serveless.svg">
 </div>
   
 <br />
