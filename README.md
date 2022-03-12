@@ -6,11 +6,12 @@
 <div style="display: inline_block"><br>  
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/serveless.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
 </div>
   
 <br />
