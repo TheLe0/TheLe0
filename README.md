@@ -15,7 +15,7 @@
 </div>
   
 <br />
-I'm a software developer with 5+ years of experience, working with backend (.NET and Node), mobile(iOS/Swift and Android/Kotlin) and frontend(Vue, React and Angular) development. Open minded person, interested on learning new technologies and increase the coding and personal skills. Always avaliable to chat and work with new people.Working manly with Backend Development and cloud solutions, buiding and designing REST/RESTfull APIs(love RESTing in the free time for relax 😆) and cloud solutions. But eventually work with front-end stuff (web, mobile and desktop).
+I'm a software developer with 5+ years of experience, working with backend (.NET and Node), mobile(iOS/Swift and Android/Kotlin) and frontend(Vue, React and Angular) development. Working as a regular job as software developer on [![Cooperativa Santa Clara]](https://www.coopsantaclara.com.br/) and on the free time building frontend applications and cloud solutions as freelancer.
 
 I'm open to colaborate on open source projects.
 
