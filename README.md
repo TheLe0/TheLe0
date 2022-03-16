@@ -15,7 +15,7 @@
 </div>
   
 <br />
-I'm a software developer with 5+ years of experience, working with backend (.NET and Node), mobile(iOS/Swift and Android/Kotlin) and frontend(Vue, React and Angular) development. Working as a regular job as software developer on [Cooperativa Santa Clara](https://www.coopsantaclara.com.br/) and on the free time building frontend applications and cloud solutions as freelancer.
+I'm a software developer with 5+ years of experience, working with backend (.NET and Node), mobile(iOS/Swift and Android/Kotlin) and frontend(Vue, React and Angular) development. Working as a regular job as software developer on Cooperativa Santa Clara and on the free time building frontend applications and cloud solutions as freelancer.
 
 I'm open to colaborate on open source projects.
 
