@@ -15,7 +15,7 @@
 </div>
   
 <br />
-I'm a software developer with 5+ years of experience, working with backend (.NET and Node) and frontend(Vue, React and Angular) development. Working as a regular job as software developer on Cooperativa Santa Clara and on the free time building frontend applications and cloud solutions as freelancer.
+I'm a software developer with 5+ years of experience, working with JS/TS technologies (Node, Vue, React and Angular) and cloud solutions (Azure, AWS, Heroku and GCP). Working as a regular job as software developer on Cooperativa Santa Clara and on the free time building open souce stuff, writing blog posts/articles and doing freelance projects (mainly frontend stuff).
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
