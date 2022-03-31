@@ -10,8 +10,10 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
 </div>
   
 <br />
