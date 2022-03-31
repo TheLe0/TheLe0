@@ -13,7 +13,7 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
-  <img align="center"  height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
+  <img align="center"  height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
 </div>
   
 <br />
