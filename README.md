@@ -6,12 +6,12 @@
 <div style="display: inline_block"><br>  
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/serveless.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
 </div>
   
 <br />
