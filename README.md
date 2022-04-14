@@ -4,16 +4,15 @@
 
 ### About Me
 
-<div style="display: inline_block"><br>  
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
-  <img align="center"  height="60" width="70" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
 </div>
   
 <br />
