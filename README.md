@@ -13,7 +13,7 @@
 </div>
   
 <br />
-I'm a software developer with 5+ years of experience, working with JS/TS and .NET technologies and cloud solutions on Azure. Working as a regular job as software developer on Cooperativa Santa Clara and on the free time building open souce stuff, writing blog posts/articles and doing freelance and opensource projects.
+I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and others Microsoft technologies. Working as a regular job as software developer on Cooperativa Santa Clara and on the free time building open souce stuff, writing blog posts/articles, talks on events and doing freelance jobs.
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
