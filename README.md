@@ -20,7 +20,11 @@ I'm a software developer with 7+ years of experience, working mainly with .NET, 
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
-I'm open to colaborate on open source projects.
+I'm open a opensource contributor, trying always to give usefull projects and solutions to help others. Be free to participate and discuss some of my projects. I work mainly on .NET/C# packages distributed on NuGet. 
+
+Here some projects I created and maintain:
+
+📓 <b>LawBook</b>: An objects validator packages, helps you to validate your own objects.
 
 > You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
 >
