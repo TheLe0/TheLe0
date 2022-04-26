@@ -16,24 +16,13 @@
 </div>
   
 <br />
-I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and others Microsoft technologies. Working as a regular job as software developer on Cooperativa Santa Clara and on the free time building open souce stuff, writing blog posts/articles, talks on events and doing freelance jobs.
+I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and others Microsoft technologies. Working by day as a Software Developer on [Cooperativa Santa Clara](https://www.coopsantaclara.com.br/) and open-source contributor with my NuGet packages on the free time.
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
-I'm open a opensource contributor, trying always to give usefull projects and solutions to help others. Be free to participate and discuss some of my projects. I work mainly on .NET/C# packages distributed on NuGet. 
+I've built and open sourced the following things:
 
-Here some projects I created and maintain:
-
-📓 <b>LawBook</b>: An objects validator packages, helps you to validate your own objects.
-
-> You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
->
-> -- <cite>Roronoa Zoro</cite>
-
-
-> Passion and dreams are like time, nothing can stop them, and it will be so long as there are men ready to make sense of the word, freedom.
->
-> -- <cite>Gol D. Rodgers</cite>
+📓 [LawBook](https://github.com/TheLe0/LawBook): An object validator, helps you defining the limitations of your objects.
 
 ## My certifications
 
