@@ -16,7 +16,7 @@
 </div>
   
 <br />
-I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and others Microsoft technologies. Working by day as a Software Developer on [Cooperativa Santa Clara](https://www.coopsantaclara.com.br/) and open-source contributor with my NuGet packages on the free time.
+I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and others Microsoft technologies. Working by day as a Software Developer and open-source contributor with my NuGet packages on the free time.
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
