@@ -1,6 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tosin-b57406112/)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9767014/thele0?tab=profile)
-[![Nuget](https://img.shields.io/badge/-TheLe0-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/TheLe0/)](https://www.nuget.org/profiles/TheLe0/)
 
 ### About Me
 
@@ -24,7 +23,8 @@ I'm a software developer with 7+ years of experience, working mainly with .NET, 
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
-I've built and open sourced the following things:
+## My Projects
+[![Nuget](https://img.shields.io/badge/-TheLe0-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/TheLe0/)](https://www.nuget.org/profiles/TheLe0/)
 
 📓 [LawBook](https://github.com/TheLe0/LawBook): An object validator, helps you defining the limitations of your objects.
 
