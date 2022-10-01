@@ -1,6 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tosin-b57406112/)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9767014/thele0?tab=profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TheLe0)
 [![Nuget](https://img.shields.io/badge/-TheLe0-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/TheLe0/)](https://www.nuget.org/profiles/TheLe0/)
 
 ### About Me
@@ -32,6 +31,18 @@ I've built and open sourced the following things:
 ## My certifications
 
 🏅 AZ-900: Azure Fundamentals
+
+## My Blog Posts
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TheLe0)
+
+<!-- MEDIUM:START -->
+- [Cloud flavours on Azure: The different types of cloud services](https://medium.com/@TheLe0/cloud-flavours-on-azure-the-different-types-of-cloud-services-6e8a12919d78------2)
+- [Protecting your Azure resources with Azure Locks](https://medium.com/@TheLe0/protecting-your-azure-resources-with-azure-locks-3c5222278183------2)
+- [Web Scrapping with .NET and Selenium Webdriver](https://medium.com/@TheLe0/web-scrapping-with-net-and-selenium-webdriver-d8a888756733------2)
+- [Running a .NET application on a local Kubernetes cluster](https://medium.com/@TheLe0/running-a-net-application-on-a-local-kubernetes-cluster-1aff3537f755------2)
+- [How to easily build and deploy a website on Azure Static Web Apps](https://medium.com/@TheLe0/how-to-easily-build-and-deploy-a-website-on-azure-static-web-apps-32e62861a2e5------2)
+<!-- MEDIUM:END -->
 
 ## STATS
 
