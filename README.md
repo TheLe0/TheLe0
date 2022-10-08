@@ -6,16 +6,16 @@
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/blazor.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ngrx.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
 </div>
   
 <br />
