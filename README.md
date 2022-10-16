@@ -19,8 +19,6 @@ I'm a software developer with 7+ years of experience, working mainly with .NET, 
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
-![angular-ecosystem-logos](https://user-images.githubusercontent.com/40045069/196011808-36efb358-2a09-4a65-95b9-36bf7177b173.png)
-
 ## My Projects
 [![Nuget](https://img.shields.io/badge/-TheLe0-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/TheLe0/)](https://www.nuget.org/profiles/TheLe0/)
 
