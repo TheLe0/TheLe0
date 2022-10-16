@@ -6,22 +6,20 @@
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ngrx.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
 </div>
   
 <br />
-I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and others Microsoft technologies. Working by day as a Software Developer and open-source contributor with my NuGet packages on the free time.
+I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and Angular. Working by day as a Software Developer on investment broker startup and on the free time I do some freelance jobs building simple front-end applications on Angular.
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
+
+![angular-ecosystem-logos](https://user-images.githubusercontent.com/40045069/196011808-36efb358-2a09-4a65-95b9-36bf7177b173.png)
 
 ## My Projects
 [![Nuget](https://img.shields.io/badge/-TheLe0-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/TheLe0/)](https://www.nuget.org/profiles/TheLe0/)
