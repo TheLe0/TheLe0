@@ -20,6 +20,7 @@ I'm a computer science bachelor, built as a final paper a gamification plataform
 [![Nuget](https://img.shields.io/badge/-TheLe0-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/TheLe0/)](https://www.nuget.org/profiles/TheLe0/)
 
 📓 [LawBook](https://github.com/TheLe0/LawBook): An object validator, helps you defining the limitations of your objects.
+🪙 [Bacen.Dollar.Api.Client](https://github.com/TheLe0/bacen-dollar-api-client): A .NET REST API Client to get the Dollar quotation by dates.
 
 ## My certifications
 
