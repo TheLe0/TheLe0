@@ -14,7 +14,7 @@
 </div>
   
 <br />
-I'm a software developer with 7+ years of experience, working mainly with .NET, Azure and Angular. Working by day as a Software Developer on investment broker startup and on the free time I am currently trying to learn Golang programming.
+I'm a software developer with 7+ years of experience, working mainly with .NET, NodeJS, Azure and Angular. Working by day as a Software Developer on investment broker startup and on the free time I am currently trying to learn Golang programming.
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
