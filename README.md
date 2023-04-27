@@ -9,8 +9,6 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 </div>
   
 <br />
