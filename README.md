@@ -21,6 +21,8 @@ I'm a computer science bachelor, built as a final paper a gamification plataform
 
 🪙 [Bacen.Dollar.Api.Client](https://github.com/TheLe0/bacen-dollar-api-client): A .NET REST API Client to get the Dollar quotation by dates.
 
+🌭 [Frankfurter.API.Client](https://github.com/TheLe0/frankfurter-api-client): Client for Currencies exchange rates published by the European Central Bank.
+
 ## My certifications
 
 🏅 AZ-900: Azure Fundamentals
