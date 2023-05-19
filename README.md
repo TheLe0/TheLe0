@@ -23,6 +23,8 @@ I'm a computer science bachelor, built as a final paper a gamification plataform
 
 🌭 [Frankfurter.API.Client](https://github.com/TheLe0/frankfurter-api-client): Client for Currencies exchange rates published by the European Central Bank.
 
+🐷 [Bacon.Ipsum.API.Client](https://github.com/TheLe0/bacon-ipsum-api-client): Text generator for using as placeholder to front-end applications to test the responsivity
+
 ## My certifications
 
 🏅 AZ-900: Azure Fundamentals
