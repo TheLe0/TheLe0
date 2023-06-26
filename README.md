@@ -7,11 +7,10 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
 </div>
   
 <br />
