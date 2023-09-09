@@ -29,6 +29,8 @@ I'm a computer science bachelor, built as a final paper a gamification plataform
 
 🐷 [Bacon.Ipsum.API.Client](https://github.com/TheLe0/bacon-ipsum-api-client): Text generator for using as placeholder to front-end applications to test the responsivity
 
+💼 [Receitaws.API.Client](https://github.com/TheLe0/receitaws-api-client): Gives you data and information about brazilian companies and enterprises.
+
 ## My certifications
 
 🏅 AZ-900: Azure Fundamentals
