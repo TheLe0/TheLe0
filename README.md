@@ -5,16 +5,17 @@
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/kafka.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
 </div>
   
 <br />
-I'm a software developer with 7+ years of experience, working mainly on backend development with .NET and cloud solutions with Azure. Working by day as a Software Developer on a investment broker startup and on the free time I like write posts on medium and build .NET Clients for APIs that I find usefull and interesting (mostly related to the finances area).
+I'm a software developer with 7+ years of experience, working mainly on backend development with .NET and PHP, buidling solutions using cloud services mostly on Azure and AWS. Working by day as a Software Developer on a investment broker startup and on the free time I like write posts on medium and build .NET Clients for APIs that I find usefull and interesting (mostly related to the finances area).
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
