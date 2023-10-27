@@ -7,9 +7,9 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </div>
   
