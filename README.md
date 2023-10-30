@@ -7,9 +7,8 @@
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fedora-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </div>
   
