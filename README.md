@@ -44,11 +44,12 @@ I'm a computer science bachelor, built as a final paper a gamification plataform
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TheLe0)
 
 <!-- MEDIUM:START -->
-- [Cloud flavours on Azure: The different types of cloud services](https://medium.com/@TheLe0/cloud-flavours-on-azure-the-different-types-of-cloud-services-6e8a12919d78------2)
-- [Protecting your Azure resources with Azure Locks](https://medium.com/@TheLe0/protecting-your-azure-resources-with-azure-locks-3c5222278183------2)
-- [Web Scrapping with .NET and Selenium Webdriver](https://medium.com/@TheLe0/web-scrapping-with-net-and-selenium-webdriver-d8a888756733------2)
-- [Running a .NET application on a local Kubernetes cluster](https://medium.com/@TheLe0/running-a-net-application-on-a-local-kubernetes-cluster-1aff3537f755------2)
-- [How to easily build and deploy a website on Azure Static Web Apps](https://medium.com/@TheLe0/how-to-easily-build-and-deploy-a-website-on-azure-static-web-apps-32e62861a2e5------2)
+- [Learning how to use AWS CDK with .NET as the IaC to your projects](https://medium.com/@TheLe0/learning-how-to-use-aws-cdk-with-net-as-the-iac-to-your-projects-c9806e5ea739)
+- [Web Scrapping with .NET and Selenium Webdriver](https://medium.com/@TheLe0/web-scrapping-with-net-and-selenium-webdriver-d8a888756733)
+- [How to easily build and deploy a website on Azure Static Web Apps](https://medium.com/@TheLe0/how-to-easily-build-and-deploy-a-website-on-azure-static-web-apps-32e62861a2e5)
+- [Using Azure Container Apps to run your docker images](https://medium.com/@TheLe0/using-azure-container-apps-to-run-your-docker-images-e58f05cc9260)
+- [Mocking your appsettings in unit tests on .NET](https://medium.com/@TheLe0/mocking-your-appsettings-in-unit-tests-on-net-cb057de7db64)
+- [Cloud flavours on Azure: The different types of cloud services](https://medium.com/@TheLe0/cloud-flavours-on-azure-the-different-types-of-cloud-services-6e8a12919d78)
 <!-- MEDIUM:END -->
 
 ## STATS
