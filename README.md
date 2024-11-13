@@ -31,10 +31,6 @@ I'm a computer science bachelor, built as a final paper a gamification plataform
 
 💼 [Receitaws.API.Client](https://github.com/TheLe0/receitaws-api-client): Gives you data and information about brazilian companies and enterprises.
 
-📝 [TODO Sphere](https://www.todo-sphere.com/): A simple TODO application
-
-🌏[Fun with Flags](https://fun-with-flags.info/): A app that list all countries with its flag and capital.
-
 ## My certifications
 
 🏅 AZ-900: Azure Fundamentals
