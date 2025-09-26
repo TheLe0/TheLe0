@@ -4,17 +4,17 @@
 ### About Me
 
 <div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ngrx.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
 </div>
   
 <br />
-I'm a software developer with 7+ years of experience, working mainly on backend development with .NET and PHP, buidling solutions using cloud services mostly on Azure and AWS and sometimes doing front end stuff, both web (React and VueJs) and mobile (Android and iOS). Working by day as a Software Developer on a investment broker startup and on the free time I like to write posts on medium, build some personal side projects, do some freelances and studying to enhance my hard and soft skills.
+I'm a software developer with 7+ years of experience, working mainly with web appications, started working with PHP, JS and JQuery, but now I days working mainly with Angular and .NET as the tech stack. Have a lot of experience workig with cloud applications, with a lot of experience on Azure and AWS.
 
 I'm a computer science bachelor, built as a final paper a gamification plataform for touristics itineraries. You can here more about in my [video](https://www.youtube.com/watch?v=xZLdsME5gGU) (it's in portuguese language).
 
