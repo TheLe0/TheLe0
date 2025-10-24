@@ -4,13 +4,12 @@
 ### About Me
 
 <div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ngrx.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/go-8.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fedora-1.svg">
 </div>
   
 <br />
